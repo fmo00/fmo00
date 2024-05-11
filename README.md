@@ -1,7 +1,7 @@
 ### Hi, (๑>◡<๑)
 
-I’m a fullstack web developer with emphasis in back-end development
-- 🌱 I’m currently learning more about system design and software architecture
+I’m a fullstack web developer 
+- 🌱 I’m currently learning more about distributed system design and software architecture
 - 🛠️ I’m looking to collaborate on open source projects and API improvements
 - Communication in 🇧🇷🇬🇧🇮🇹🇩🇪
   
@@ -26,11 +26,10 @@ I’m a fullstack web developer with emphasis in back-end development
 [![AWS](https://img.shields.io/badge/AWS-Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=black)](https://aws.amazon.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-Cluster%20Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=black)](https://kubernetes.io/)
 [![Docker](https://img.shields.io/badge/Docker-Container%20Technology-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=black)](https://www.docker.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=white)]([https://www.docker.com/](https://www.linux.org/))
 
 ### Learning:
 
 [![AWS](https://img.shields.io/badge/AWS-Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=black)](https://aws.amazon.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-Cluster%20Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=black)](https://kubernetes.io/)
-
-[![Next.js](https://img.shields.io/badge/Next.js-Frontend%20Framework-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=black)](https://nextjs.org/)
-[![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-Full%20Stack%20Framework-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white&labelColor=black)](https://rubyonrails.org/)
+[![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=black)](https://go.dev/)
