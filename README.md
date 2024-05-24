@@ -1,6 +1,6 @@
 ### Hi, (๑>◡<๑)
 
-I’m a fullstack web developer 
+I’m a back-end engineer
 - 🌱 I’m currently learning more about distributed system design and software architecture
 - 🛠️ I’m looking to collaborate on open source projects and API improvements
 - Communication in 🇧🇷🇬🇧🇮🇹🇩🇪
