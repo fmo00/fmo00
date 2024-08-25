@@ -4,6 +4,14 @@ I’m a back-end engineer
 - 🌱 I’m currently learning more about distributed system design and software architecture
 - 🛠️ I’m looking to collaborate on open source projects and API improvements
 - Communication in 🇧🇷🇬🇧🇮🇹🇩🇪
+
+<br>
+
+ <picture decoding="async" loading="lazy">
+  <img alt="github stats" src="https://pixel-profile-ui.vercel.app/api/github-stats?username=fmo00&include_all_commits=true&pixelate_avatar=true&theme=journey&theme=journey&color=%23ffffffFF">
+</picture>
+
+ <br> 
   
 ### Main stack:
 
