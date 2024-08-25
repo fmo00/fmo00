@@ -4,14 +4,6 @@ I’m a back-end engineer
 - 🌱 I’m currently learning more about distributed system design and software architecture
 - 🛠️ I’m looking to collaborate on open source projects and API improvements
 - Communication in 🇧🇷🇬🇧🇮🇹🇩🇪
-
-<br>
-
- <picture decoding="async" loading="lazy">
-  <img alt="github stats" src="https://pixel-profile-ui.vercel.app/api/github-stats?username=fmo00&include_all_commits=true&pixelate_avatar=true&theme=journey&theme=journey&color=%23ffffffFF">
-</picture>
-
- <br> 
   
 ### Main stack:
 
@@ -41,3 +33,11 @@ I’m a back-end engineer
 [![AWS](https://img.shields.io/badge/AWS-Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=black)](https://aws.amazon.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-Cluster%20Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=black)](https://kubernetes.io/)
 [![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=black)](https://go.dev/)
+
+<br>
+
+ <picture decoding="async" loading="lazy">
+  <img alt="github stats" src="https://pixel-profile-ui.vercel.app/api/github-stats?username=fmo00&include_all_commits=true&pixelate_avatar=true&theme=journey&theme=journey&color=%23ffffffFF">
+</picture>
+
+ <br> 
